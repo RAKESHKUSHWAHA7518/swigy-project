@@ -1,0 +1,45 @@
+# node_modules
+# dist
+# .parcel-cache
+
+
+# Node modules directory
+node_modules
+
+# Parcel build output directory
+dist
+
+# Parcel cache directory
+.parcel-cache
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# OS-specific and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+
